@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Alankar Nandkumar Magdum",
+      "username": "Siri",
+      "email": "alankarmagdum2000@gmail.com",
+      "phone": "09067348087",
+      "website": "Fixit.com",
+      "id": 1
+    },
+    {
+      "name": "Alankar Nandkumar Magdum",
+      "username": "Alexa",
+      "email": "alankarmagdum2000@gmail.com",
+      "phone": "09067348087",
+      "website": "Fixit.com",
+      "id": 3
+    },
+    {
+      "name": "Alankar Nandkumar Magdum",
+      "username": "Cortona",
+      "email": "alankarmagdum2000@gmail.com",
+      "phone": "09067348087",
+      "website": "",
+      "id": 4
+    }
+  ]
+}
